@@ -1,0 +1,4 @@
+3
+Arthas;czlowiek;wojownik;10;85;aktywny
+Luna;elf;mag;7;92;na_misji
+Grom;krasnolud;wojownik;5;60;ranny
